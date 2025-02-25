@@ -1,0 +1,31 @@
+STEPS TO CREATE A GOOGLE CLOUD ACCOUNT 
+Step-by-Step Guide to Creating a Free Google Cloud Account
+Go to Google Cloud's Free Tier Page:
+
+Open your web browser and go to https://cloud.google.com/free.
+Click on the "Get Started for Free" button.
+Sign in with a Google Account:
+
+If you already have a Google account, sign in.
+If not, create a new Google account.
+Accept the Terms and Conditions:
+
+Read and agree to Google's Terms of Service and Privacy Policy to proceed.
+Enter Account and Contact Information:
+
+Select your country and account type (choose "Individual" unless you’re signing up for a company).
+Fill in your name, address, and phone number.
+Verify Your Phone Number:
+
+Enter your mobile number and verify it via an OTP sent by Google.
+Enter Payment Information:
+
+Provide a valid credit or debit card for identity verification.
+Note: Google Cloud offers a $300 free credit for 90 days, and you won’t be charged unless you manually upgrade your account.
+Complete the Setup:
+
+Select No auto-upgrade to stay within the free trial.
+Click on "Start my free trial" to finalize the account creation.
+Access the Google Cloud Console:
+
+Once your account is set up, go to the Google Cloud Console to start using GCP services.
